@@ -13,7 +13,7 @@ You've inherited a legacy user management API that works but has significant iss
 ```bash
 # Clone/download this repository
 # Navigate to the assignment directory
-cd messy-migration
+cd Messy-Migration
 
 # Install dependencies
 pip install -r requirements.txt
